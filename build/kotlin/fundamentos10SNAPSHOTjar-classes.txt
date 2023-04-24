@@ -1,0 +1,1 @@
+/home/dourado/projects/fundamentos/build/classes/kotlin/main/fundamentos/ClasseKt.class:/home/dourado/projects/fundamentos/build/classes/kotlin/main/fundamentos/Pessoa.class

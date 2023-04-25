@@ -13,5 +13,5 @@ fun main(){
     println(carro.cor)
     carro.cor = "Preto"
     println(carro.cor)
-    println(carro.dono)
+    println(carro.dono.nome)
 }
